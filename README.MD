@@ -6,7 +6,7 @@
 
 A lightweight Windows 11 utility to find the fastest Cloudflare IPs using random sampling and concurrent TCP testing.
 
-| Main Interface | Speed Test Result |
+| Speed Test Result 1 | Speed Test Result 2 |
 |:---:|:---:|
 | <img src="1.png" width="300" /> | <img src="2.png" width="300" /> |
 
